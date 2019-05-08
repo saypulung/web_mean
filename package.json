@@ -1,0 +1,26 @@
+{
+  "name": "web_mean",
+  "version": "1.0.0",
+  "description": "Mean Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saypulung/web_mean.git"
+  },
+  "keywords": [
+    "Mean",
+    "Example"
+  ],
+  "author": "saypulung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saypulung/web_mean/issues"
+  },
+  "homepage": "https://github.com/saypulung/web_mean#readme",
+  "dependencies": {
+    "q": "^1.5.1"
+  }
+}
